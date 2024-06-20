@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7E0BC8ED-71FE-4E7C-9C8D-2B9DD602D37D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6F09FFB6-F5D9-4C51-A4E2-A8D0FF78DC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nvisia.PokemonStore.Api", "src\Nvisia.PokemonStore.Api\Nvisia.PokemonStore.Api.csproj", "{64F8A256-7263-4864-BF49-9D3C9F0ED0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nvisia.PokemonReview.UnitTests", "test\Nvisia.PokemonReview.UnitTests\Nvisia.PokemonReview.UnitTests.csproj", "{63AEC881-1D9D-473A-AEE8-50CE225DE422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nvisia.PokemonReview.IntegrationTests", "test\Nvisia.PokemonReview.IntegrationTests\Nvisia.PokemonReview.IntegrationTests.csproj", "{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F8A256-7263-4864-BF49-9D3C9F0ED0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F8A256-7263-4864-BF49-9D3C9F0ED0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F8A256-7263-4864-BF49-9D3C9F0ED0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F8A256-7263-4864-BF49-9D3C9F0ED0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AEC881-1D9D-473A-AEE8-50CE225DE422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AEC881-1D9D-473A-AEE8-50CE225DE422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AEC881-1D9D-473A-AEE8-50CE225DE422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AEC881-1D9D-473A-AEE8-50CE225DE422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{64F8A256-7263-4864-BF49-9D3C9F0ED0E1} = {7E0BC8ED-71FE-4E7C-9C8D-2B9DD602D37D}
+		{63AEC881-1D9D-473A-AEE8-50CE225DE422} = {6F09FFB6-F5D9-4C51-A4E2-A8D0FF78DC85}
+		{AAAA73C2-CDAC-4109-8DE0-142E0B780BD8} = {6F09FFB6-F5D9-4C51-A4E2-A8D0FF78DC85}
+	EndGlobalSection
+EndGlobal

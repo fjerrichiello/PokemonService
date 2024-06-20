@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nvisia.PokemonStore.Api.props" />
+</Project>

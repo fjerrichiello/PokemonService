@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11502d14_002D0267_002D43d4_002D8541_002Dfa36d84b3196/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;test&amp;gt;\&amp;lt;Nvisia.PokemonReview.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.UnitTests" Presentation="&amp;lt;test&amp;gt;\&amp;lt;Nvisia.PokemonReview.UnitTests&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::AAAA73C2-CDAC-4109-8DE0-142E0B780BD8::net8.0::Nvisia.PokemonReview.IntegrationTests.Api.Endpoints.UserEndpointsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AAAA73C2-CDAC-4109-8DE0-142E0B780BD8::net8.0::Nvisia.PokemonReview.IntegrationTests.Api.Endpoints.PokemonEndpointsTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
