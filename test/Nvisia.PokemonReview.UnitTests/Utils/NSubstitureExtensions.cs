@@ -66,8 +66,7 @@ public static class NSubstituteExtensions
     {
         var calls = handler.ReceivedCalls()
             .Where(call => call.GetMethodInfo().Name == "SendAsync")
-            .Select(call => call.GetOriginalArguments().First())
-            .Cast<HttpRequestMessage>()
+            .Select(call => call.GetOriginalArguments().First()) .Cast<HttpRequestMessage>()
             .Where(request =>
                 request.Method == requestMethod &&
                 request.RequestUri != null &&

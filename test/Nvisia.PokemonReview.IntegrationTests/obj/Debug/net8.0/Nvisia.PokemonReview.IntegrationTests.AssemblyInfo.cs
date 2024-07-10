@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nvisia.PokemonReview.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0983052bf6065a69294b2a560c8b44ce12d4bdbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nvisia.PokemonReview.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nvisia.PokemonReview.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

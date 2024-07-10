@@ -536,3 +536,5 @@ C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonRevie
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.IntegrationTests\obj\Debug\net8.0\Nvisia.PokemonReview.IntegrationTests.pdb
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.IntegrationTests\obj\Debug\net8.0\Nvisia.PokemonReview.IntegrationTests.genruntimeconfig.cache
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.IntegrationTests\obj\Debug\net8.0\ref\Nvisia.PokemonReview.IntegrationTests.dll
+C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.IntegrationTests\bin\Debug\net8.0\appsettings-example.json
+C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\test\Nvisia.PokemonReview.IntegrationTests\obj\Debug\net8.0\Nvisia.PokemonReview.IntegrationTests.sourcelink.json

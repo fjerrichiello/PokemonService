@@ -237,3 +237,5 @@ C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.Api\obj\Debug\net8.0\Nvisia.PokemonStore.Api.pdb
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.Api\obj\Debug\net8.0\Nvisia.PokemonStore.Api.genruntimeconfig.cache
 C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.Api\obj\Debug\net8.0\ref\Nvisia.PokemonStore.Api.dll
+C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.Api\bin\Debug\net8.0\appsettings-example.json
+C:\Users\ferrichiello\source\nvisia\Nvisia.PokemonStore\src\Nvisia.PokemonStore.Api\obj\Debug\net8.0\Nvisia.PokemonStore.Api.sourcelink.json

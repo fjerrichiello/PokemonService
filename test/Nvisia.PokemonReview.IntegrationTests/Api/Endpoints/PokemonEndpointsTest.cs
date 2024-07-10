@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using FluentAssertions;
+using Nvisia.PokemonReview.Api.ValidationTest;
 
 namespace Nvisia.PokemonReview.IntegrationTests.Api.Endpoints;
 
@@ -22,5 +23,6 @@ public class PokemonEndpointsTest : IClassFixture<TestWebApplicationFactory<Prog
         response.Should().NotBeNull();
         response.IsSuccessStatusCode.Should().BeFalse();
         response.StatusCode.Should().Be(HttpStatusCode.Unauthorized);
+        
     }
 }
