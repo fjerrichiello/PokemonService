@@ -4,24 +4,22 @@ namespace Nvisia.PokemonReview.Api.ValidationTest;
 
 public interface IMember
 {
-    public MemberType? MemberType { get; set; }
+    public MemberType? MemberType { get; init; }
 
-    public bool SignedOne { get; set; }
-    public bool SignedTwo { get; set; }
-    public bool SignedThree { get; set; }
+    public bool SignedOne { get; init; }
+    public bool SignedTwo { get; init; }
+    public bool SignedThree { get; init; }
 
-    DateOnly? EffectiveDate { get; set; }
+    DateOnly? EffectiveDate { get; init; }
 }
 
-public class Member : IMember
-{
-    public Guid Id { get; set; }
-    public MemberType? MemberType { get; set; }
-    public bool SignedOne { get; set; }
-    public bool SignedTwo { get; set; }
-    public bool SignedThree { get; set; }
-    public DateOnly? EffectiveDate { get; set; }
-}
+public record Member(
+    Guid Id,
+    MemberType? MemberType,
+    bool SignedOne,
+    bool SignedTwo,
+    bool SignedThree,
+    DateOnly? EffectiveDate) : IMember;
 
 public enum MemberType
 {
